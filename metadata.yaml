@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/267
     wikipedia: http://en.wikipedia.org/wiki/Victor_Appleton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23677#The-Moving-Picture-Boys-on-the-Coast--13-Or-Showing-Up-the-Perils-of-the-Deep
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2007-12-02'
 gutenberg_type: Text
